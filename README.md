@@ -5,8 +5,8 @@
 
 
  ### Ordem de teste
-  - Listagem de usuarios já cadastrados - </br>
-  - Usuario já cadastrado - </br>
-  - Busca de usuario pela ID - </br>
-  - Não é possivel exclusão de cadastro do usuario - </br>
-  - Edição de dados do usuario -
+  - Listagem de usuarios já cadastrados 
+  - Usuario já cadastrado 
+  - Busca de usuario pela ID 
+  - Não é possivel exclusão de cadastro do usuario 
+  - Edição de dados do usuario 
